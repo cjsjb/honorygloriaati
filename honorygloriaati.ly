@@ -4,9 +4,9 @@
 #(ly:set-option 'point-and-click #f)
 \header {
     composer = "Alejandro Ibarra"
-    copyright = "Copyright (c) 2004 Alejandro Ibarra"
+    copyright = "Copyright © 2004 Alejandro Ibarra"
     title = "Honor y gloria a ti"
-    tagline = ""
+    tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
