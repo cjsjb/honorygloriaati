@@ -8,7 +8,7 @@
             \context Voice = "voice 5" {
                 \override Voice.TextScript #'padding = #2.0                \override MultiMeasureRest #'expand-limit = 1
 
-                \clef "soprano"
+                \clef "treble"
                 \key e \minor
                 R1*4  |
 %% 5
