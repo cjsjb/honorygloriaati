@@ -24,6 +24,7 @@
                 \bar "|."
             } % Voice
             \lyricsto "voice 4" \new Lyrics \lyricmode {
-                 "Ho" "nor" "y" "glo" "ria_a" "ti," "Se" "ñor" "Je" "sús." "Ho" "nor" "y" "glo" "ria_a" "ti," "Se" "ñor" "Je" "sús." 
+		"Ho" -- "nor" "y" "glo" -- "ria a" "ti," "Se" -- "ñor" "Je" -- "sús."
+		"Ho" -- "nor" "y" "glo" -- "ria a" "ti," "Se" -- "ñor" "Je" -- "sús."
              } % Lyrics
         >> % Staff
