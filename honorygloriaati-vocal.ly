@@ -24,8 +24,8 @@ globalTempo = {
 	\override Score.MetronomeMark #'padding = #8.0
 
 	\include "honorygloriaati-acordes.inc"
-	\include "honorygloriaati-tenorv.inc"
-	\include "honorygloriaati-sopranov.inc"
+	\include "honorygloriaati-tenor.inc"
+	\include "honorygloriaati-soprano.inc"
 
     >> % notes
 
