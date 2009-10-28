@@ -3,19 +3,19 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    composer = "Alejandro Ibarra"
-    copyright = "Copyright © 2004 Alejandro Ibarra"
-    title = "Honor y gloria a ti"
-    tagline = "Coro Juvenil San Juan Bosco"
+	composer = "Alejandro Ibarra"
+	copyright = "Copyright © 2004 Alejandro Ibarra"
+	title = "Honor y gloria a ti"
+	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
-global = { 
-    \time 4/4
-    \skip 1*9  %% 1-9
+global = {
+	\time 4/4
+	\skip 1*9  %% 1-9
 }
 globalTempo = {
-    \tempo 4 = 85  \skip 1*9 
+	\tempo 4 = 85  \skip 1*9
 }
 \score {
 	\new StaffGroup <<
