@@ -7,6 +7,7 @@
 	copyright = "Copyright © 2004 Alejandro Ibarra"
 	title = "Honor y gloria a ti"
 	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
