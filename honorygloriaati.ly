@@ -23,11 +23,12 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "honorygloriaati-acordes.inc"
-		\include "honorygloriaati-tenor.inc"
 		\include "honorygloriaati-soprano.inc"
-		\include "honorygloriaati-cuerdas.inc"
-		\include "honorygloriaati-pizzicato.inc"
-		\include "honorygloriaati-cello.inc"
+		\include "honorygloriaati-mezzo.inc"
+		\include "honorygloriaati-tenor.inc"
+		%\include "honorygloriaati-cuerdas.inc"
+		%\include "honorygloriaati-pizzicato.inc"
+		%\include "honorygloriaati-cello.inc"
 
 	>> % notes
 
