@@ -15,7 +15,7 @@
                 R1*4  |
 %% 5
                 r8 b' b' b' a' a' 8. ~ a' 16 g' 8 ~  |
-                g' 4 r8 g' fis' 4 d'  |
+                g' 4 r8 g' fis' 4 dis'  |
                 e' 2 r  |
                 r4 r8 g' fis' 4 g'  |
                 g' 1  |

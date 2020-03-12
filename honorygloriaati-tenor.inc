@@ -14,12 +14,12 @@
                 \key e \minor
                 R1*2  |
                 r8 e e e fis fis 8. ~ fis 16 g 8 ~  |
-                g 4 r8 g fis 4 d  |
+                g 4 r8 g fis 4 dis  |
 %% 5
                 e 2 r  |
                 R1  |
                 r8 e e e fis fis 8. ~ fis 16 g 8 ~  |
-                g 4 r8 g fis 4 d  |
+                g 4 r8 g fis 4 dis  |
                 e 1  |
                 \bar "|."
             } % Voice
