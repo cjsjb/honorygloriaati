@@ -1,4 +1,4 @@
-        \context Staff = "track 4" \with { \consists Ambitus_engraver } <<
+        \context Staff = "tenor" \with { \consists Ambitus_engraver } <<
             \set Staff.instrumentName = "Tenor"
             \set Staff.shortInstrumentName = "T."
             \set Score.skipBars = ##t
@@ -6,7 +6,7 @@
             \new Voice \global
             \new Voice \globalTempo
 
-            \context Voice = "voice 4" {
+            \context Voice = "voz-tenor" {
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
@@ -23,7 +23,7 @@
                 e 1  |
                 \bar "|."
             } % Voice
-            \lyricsto "voice 4" \new Lyrics \lyricmode {
+            \new Lyrics \lyricsto "voz-tenor" {
 		"Ho" -- "nor" "y" "glo" -- "ria a" "ti," "Se" -- "ñor" "Je" -- "sús."
 		"Ho" -- "nor" "y" "glo" -- "ria a" "ti," "Se" -- "ñor" "Je" -- "sús."
              } % Lyrics
